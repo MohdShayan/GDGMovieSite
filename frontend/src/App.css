@@ -1,8 +1,0 @@
-.border {
-    width: 400px;
-    border: 2px solid transparent;
-    
-    border-image-slice: 1;
-    padding: 25px;
-    
-}
